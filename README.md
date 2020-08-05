@@ -1,12 +1,12 @@
 # Tutorial of Parallel-META 3: How to Process your Microbiome Data
 
-![Parallel-Meta3](images\parallel-meta3.png)
+![Parallel-Meta3](images/parallel-meta3.png)
 
 
 
 Tutorial modified from: [Official PM3 Tutorial](http://bioinfo.single-cell.cn/Released_Software/parallel-meta/sampledata/TutorialPM3.pdf)
 
-![img](images\PM3-pipeline)
+![img](images/PM3-pipeline.png)
 
 
 
